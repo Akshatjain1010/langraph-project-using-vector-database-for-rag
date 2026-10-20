@@ -1,0 +1,8 @@
+langchain #as langgraph uses langchain framework
+langchain-community #community contribution library in langchain
+langchain-google-genai #for google embedding
+langchain-groq #for free model integration
+langgraph 
+faiss-cpu #for vector database store
+python-dotenv #for loading env variable
+streamlit #for frontend
